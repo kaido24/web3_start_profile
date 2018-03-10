@@ -11,7 +11,9 @@
     "require": {
         "drupal/bootstrap": "^3.10",
         "drupal/admin_toolbar": "^1.23",
-        "drupal/google_analytics": "^2.2"
+        "drupal/google_analytics": "^2.2",
+        "drupal/token": "^1.1",
+        "drupal/xmlsitemap": "^1.0@alpha"
     },
     "license": "GPL-2.0-or-later",
     "authors": [
