@@ -1,4 +1,4 @@
-#Usage
+# add those lines to composer.json
 "repositories": {
     "drupal": {
         "type": "composer",
@@ -9,3 +9,6 @@
         "url": "https://github.com/kaido24/web3_start_profile"
     }
 },
+
+#run
+composer require kaido24/web3_start
