@@ -22,8 +22,8 @@
         "drupal/google_analytics": "^2.2",
         "drupal/token": "^1.1",
         "drupal/xmlsitemap": "^1.0@alpha",
-        "kaido24/ckeditor_btgrid",
-        "kaido24/cke_bt_link_btn"
+        "kaido24/ckeditor_btgrid": "dev-master",
+        "kaido24/cke_bt_link_btn": "dev-master"
     },
     "license": "GPL-2.0-or-later",
     "authors": [
