@@ -37,6 +37,7 @@ dependencies:
   - admin_toolbar_tools
   - google_analytics
   - xmlsitemap
+  - metatag
 themes:
   - bartik
   - seven
