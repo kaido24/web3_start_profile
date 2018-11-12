@@ -22,6 +22,7 @@
         "drupal/google_analytics": "^2.2",
         "drupal/token": "^1.1",
         "drupal/xmlsitemap": "^1.0@alpha",
+	"drupal/metatag": "^1.7.0",
         "kaido24/ckeditor_btgrid": "dev-master",
         "kaido24/cke_bt_link_btn": "dev-master"
     },
