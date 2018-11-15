@@ -1,4 +1,4 @@
-##  replace rows in composer.json
+# replace rows in composer.json
 
 "repositories": [
         {
@@ -6,7 +6,7 @@
             "url": "https://packages.drupal.org/8"
         }
     ],
-##  with
+#  with
 "repositories": {
     "drupal": {
         "type": "composer",
