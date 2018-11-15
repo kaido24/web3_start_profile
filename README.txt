@@ -1,4 +1,12 @@
-# add those lines to composer.json
+#  replace rows in composer.json
+
+"repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
+    
 "repositories": {
     "drupal": {
         "type": "composer",
