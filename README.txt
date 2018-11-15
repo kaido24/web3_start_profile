@@ -1,4 +1,4 @@
-#replace rows in composer.json
+# replace rows in composer.json
 
 "repositories": [
         {
