@@ -6,14 +6,6 @@
 	    "drupal": {
 	        "type": "composer",
 	        "url": "https://packages.drupal.org/8"
-	    },
-	    "ckeditor_btgrid": {
-	    	"type": "vcs",
-	    	"url": "https://github.com/kaido24/ckeditor_btgrid"
-	    },
-	    "cke_bt_link_btn": {
-	    	"type": "vcs",
-	    	"url": "https://github.com/kaido24/cke_bt_link_btn"
 	    }
 	},
     "require": {
@@ -23,8 +15,6 @@
         "drupal/token": "^1.1",
         "drupal/xmlsitemap": "^1.0@alpha",
 	"drupal/metatag": "^1.7.0",
-        "kaido24/ckeditor_btgrid": "dev-master",
-        "kaido24/cke_bt_link_btn": "dev-master"
     },
     "license": "GPL-2.0-or-later",
     "authors": [
