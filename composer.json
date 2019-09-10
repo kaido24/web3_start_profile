@@ -2,11 +2,12 @@
     "name": "kaido24/web3_start",
     "description": "Drupal 8 start profile",
     "type": "drupal-profile",
-    "repositories": [{
+    "repositories": {
        "drupal": {
-       "type": "composer",
-       "url": "https://packages.drupal.org/8"
-    }],
+      	 "type": "composer",
+      	 "url": "https://packages.drupal.org/8"
+       }
+    },
     "require": {
         "drupal/bootstrap": "^3.10",
         "drupal/admin_toolbar": "^1.23",
