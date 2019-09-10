@@ -9,7 +9,6 @@
        }
     },
     "require": {
-        "drupal/bootstrap": "^3.10",
         "drupal/admin_toolbar": "^1.23",
         "drupal/google_analytics": "^2.2",
         "drupal/token": "^1.1",
