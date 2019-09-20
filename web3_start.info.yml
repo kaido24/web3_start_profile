@@ -38,6 +38,7 @@ dependencies:
   - google_analytics
   - xmlsitemap
   - metatag
+  - svg_image
 themes:
   - bartik
   - seven
